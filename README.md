@@ -1,0 +1,8 @@
+#TIS
+
+> Today I Stackoverflow
+
+这个项目是因为我看到[TIL](<https://github.com/jbranchaud/til>)这个开源项目的启发而创建。有一些知识点想整理而又达不到专门写博客的程度，然后就记录在这里。而且，这是一个专门针对Stackoverflow上的QA而记录的项目，Stackoverflow上有太多好的问题和好的答案了。但以前我都是查完就算，很多时也就忘记了，记录下来一个是增强记忆，二个也是为了锻炼一下自己的渣英语。
+
+---
+
