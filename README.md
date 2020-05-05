@@ -16,4 +16,5 @@
 
 ### Unix
 
-- [shell中，2>&1是什么意思](unix/2>&1mean.md)
+- [shell中，2>&1是什么意思](unix/in-shell-what-does-21-mean.md)
+
