@@ -11,6 +11,7 @@
 ### Categories
 
 * [Unix](#Unix)
+* [git](#git)
 
 ---
 
@@ -18,3 +19,6 @@
 
 - [shell中，2>&1是什么意思](unix/in-shell-what-does-21-mean.md)
 
+### git
+
+- [](git/make-gitignore-ignore-everything-except-a-few-files.md)
