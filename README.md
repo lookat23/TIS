@@ -10,15 +10,19 @@
 
 ### Categories
 
+* [Git](#Git)
+
 * [Unix](#Unix)
-* [git](#git)
+
+  
 
 ---
+
+### Git
+
+- [.gitignore如何默认忽略所有，只例外部分文件](git/make-gitignore-ignore-everything-except-a-few-files.md)
 
 ### Unix
 
 - [shell中，2>&1是什么意思](unix/in-shell-what-does-21-mean.md)
 
-### git
-
-- [](git/make-gitignore-ignore-everything-except-a-few-files.md)
