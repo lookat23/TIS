@@ -25,4 +25,5 @@
 ### Unix
 
 - [shell中，2>&1是什么意思](unix/in-shell-what-does-21-mean.md)
+- [在bash中双引号和单引号的区别](unix/difference-between-single-and-double-quotes-in-bash.md)
 
