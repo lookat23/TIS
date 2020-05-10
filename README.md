@@ -33,5 +33,5 @@
 - [shell中，2>&1是什么意思](unix/in-shell-what-does-21-mean.md)
 - [在bash中双引号和单引号的区别](unix/difference-between-single-and-double-quotes-in-bash.md)
 - [bash怎样在文件路径中提取文件名和扩展名](unix/extract-filename-and-extension-in-bash.md)
-- [如何在无需注销再重新登录系统的前提下，重新加载.bashrc文件](unix/how-do-i-reload-bashrc-without-logging-out-and-back-in)
+- [如何在无需注销再重新登录系统的前提下，重新加载.bashrc文件](unix/how-do-i-reload-bashrc-without-logging-out-and-back-in.md)
 
