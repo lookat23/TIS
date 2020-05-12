@@ -12,6 +12,8 @@
 
 * [Git](#Git)
 
+* [Go](#Go)
+
 * [Markdown](#Markdown)
 
 * [Unix](#Unix)
@@ -23,6 +25,11 @@
 ### Git
 
 - [.gitignore如何默认忽略所有，只例外部分文件](git/make-gitignore-ignore-everything-except-a-few-files.md)
+
+### Go
+
+- [如何拼接格式化字符串](go/format-a-go-string-without-printing.md)
+- [如何避免Go中模块或变量没使用而报错的问题](go/how-to-avoid-annoying-error-declared-and-not-used.md)
 
 ### Markdown
 
