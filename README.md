@@ -18,6 +18,8 @@
 
 * [PHP](#PHP)
 
+* Python
+
 * [Unix](#Unix)
 
   
@@ -41,6 +43,10 @@
 ### PHP
 
 - [PHP中各种空和对应判断方法](php/php-is-null-or-empty.md)
+
+### Python
+
+- [使用print输出时如何不换行](/python/how-to-print-without-newline-or-space.md)
 
 ### Unix
 
