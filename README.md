@@ -18,7 +18,7 @@
 
 * [PHP](#PHP)
 
-* Python
+* [Python](#Python)
 
 * [Unix](#Unix)
 
@@ -47,6 +47,7 @@
 ### Python
 
 - [使用print输出时如何不换行](/python/how-to-print-without-newline-or-space.md)
+- [打印异常堆栈](/python/how-to-print-the-full-traceback-without-halting-the-program.md)
 
 ### Unix
 
