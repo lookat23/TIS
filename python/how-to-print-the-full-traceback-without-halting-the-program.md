@@ -14,7 +14,7 @@ try:
 except Exception as e:
     traceback.print_exc()
     #or
-	print(traceback.format_exc())
+    print(traceback.format_exc())
 ```
 
 此方法在Python2和Python3都适用，在stackoverflow的原链接中还有很多说到其它方法的答案。
