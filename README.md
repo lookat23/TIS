@@ -36,6 +36,7 @@
 - [如何拼接格式化字符串](go/format-a-go-string-without-printing.md)
 - [如何避免Go中模块或变量没使用而报错的问题](go/how-to-avoid-annoying-error-declared-and-not-used.md)
 - [如何获取结构中的Tag字符串](go/golang-reflection-get-tag-from-struct-field.md)
+- [字符串如果通过空格分割转换为数组](go/split-a-string-on-whitespace-in-go.md)
 
 ### Markdown
 
