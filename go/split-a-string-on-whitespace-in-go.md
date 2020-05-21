@@ -2,7 +2,7 @@
 
 [stackoverflow连接](https://stackoverflow.com/questions/13737745/split-a-string-on-whitespace-in-go)
 
-原本我是想用`strings.Split`这个方法的，但这个方法明显有问题，当空格个数不是1个时，它会把两个空格中间的空串也作为一个值，所以用`strings.Split`来分割`"aa&nbsp;&nbsp;&nbsp;bb"`这种情况是不正确的。
+原本我是想用`strings.Split`这个方法的，但这个方法明显有问题，当空格个数不是1个时，它会把两个空格中间的空串也作为一个值，所以用`strings.Split`来分割`"aa　　　bb"`这种情况是不正确的。
 
 正确的方法是使用`strings.Fields`方法，代码如下：
 
