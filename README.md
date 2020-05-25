@@ -60,4 +60,5 @@
 - [如何在无需注销再重新登录系统的前提下，重新加载.bashrc文件](unix/how-do-i-reload-bashrc-without-logging-out-and-back-in.md)
 - [如何在命令行中生成字符串的md5](unix/bash-generate-md5-hash-of-string-with-special-characters.md)
 - [通过IP查找网口名](unix/find-network-interface-by-ip-address-linux-bash.md)
+- [如何在Bash中判断字符串是否存在某个子串](unix/how-to-check-if-a-string-contains-a-substring-in-bash.md)
 
