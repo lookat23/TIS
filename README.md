@@ -62,3 +62,6 @@
 - [通过IP查找网口名](unix/find-network-interface-by-ip-address-linux-bash.md)
 - [如何在Bash中判断字符串是否存在某个子串](unix/how-to-check-if-a-string-contains-a-substring-in-bash.md)
 
+### Vim
+
+[Vim中设置utf-8时encoding和fileencoding的区别](vim/set-encoding-and-fileencoding-to-utf-8-in-vim.md)
