@@ -22,6 +22,8 @@
 
 * [Unix](#Unix)
 
+* [Vim](#Vim)
+
   
 
 ---
@@ -64,4 +66,5 @@
 
 ### Vim
 
-[Vim中设置utf-8时encoding和fileencoding的区别](vim/set-encoding-and-fileencoding-to-utf-8-in-vim.md)
+- [Vim中设置utf-8时encoding和fileencoding的区别](vim/set-encoding-and-fileencoding-to-utf-8-in-vim.md)
+
