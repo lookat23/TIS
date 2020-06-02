@@ -54,6 +54,7 @@
 - [使用print输出时如何不换行](/python/how-to-print-without-newline-or-space.md)
 - [打印异常堆栈](/python/how-to-print-the-full-traceback-without-halting-the-program.md)
 - [运行shell命令并获取输出](python/running-shell-command-and-capturing-the-output.md)
+- [如何把JSON字符串转为字典](python/convert-json-string-to-dict-using-python.md)
 
 ### Unix
 
