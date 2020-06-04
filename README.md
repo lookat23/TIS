@@ -55,6 +55,7 @@
 - [打印异常堆栈](/python/how-to-print-the-full-traceback-without-halting-the-program.md)
 - [运行shell命令并获取输出](python/running-shell-command-and-capturing-the-output.md)
 - [如何把JSON字符串转为字典](python/convert-json-string-to-dict-using-python.md)
+- [判断字符串是否是另一个字符串的子串](python/check-string-exist-in-another-string.md)
 
 ### Unix
 
