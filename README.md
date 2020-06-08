@@ -49,7 +49,7 @@
 
 ### Nginx
 
-- [如何解决Nginx反向代理时出现504（网关超时）](Nginx/nginx-reverse-proxy-causing-504-gateway-timeout.md)
+- [如何解决Nginx反向代理时出现504（网关超时）](nginx/nginx-reverse-proxy-causing-504-gateway-timeout.md)
 
 ### PHP
 
