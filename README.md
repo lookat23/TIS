@@ -16,6 +16,8 @@
 
 * [Markdown](#Markdown)
 
+* [Nginx](#Nginx)
+
 * [PHP](#PHP)
 
 * [Python](#Python)
@@ -44,6 +46,10 @@
 ### Markdown
 
 - [怎样在行间代码块中显示反引号`](markdown/how-do-i-escape-a-backticks-within-in-line-code-in-markdown.md)
+
+### Nginx
+
+- [如何解决Nginx反向代理时出现504（网关超时）](Nginx/nginx-reverse-proxy-causing-504-gateway-timeout.md)
 
 ### PHP
 
