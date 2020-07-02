@@ -11,22 +11,13 @@
 ### Categories
 
 * [Git](#Git)
-
 * [Go](#Go)
-
 * [Markdown](#Markdown)
-
 * [Nginx](#Nginx)
-
 * [PHP](#PHP)
-
 * [Python](#Python)
-
 * [Unix](#Unix)
-
 * [Vim](#Vim)
-
-  
 
 ---
 
@@ -72,8 +63,8 @@
 - [如何在命令行中生成字符串的md5](unix/bash-generate-md5-hash-of-string-with-special-characters.md)
 - [通过IP查找网口名](unix/find-network-interface-by-ip-address-linux-bash.md)
 - [如何在Bash中判断字符串是否存在某个子串](unix/how-to-check-if-a-string-contains-a-substring-in-bash.md)
+- [Shell脚本中输入密码时如何隐藏输入内容](unix/hiding-user-input-on-terminal-in-linux-script.md)
 
 ### Vim
 
 - [Vim中设置utf-8时encoding和fileencoding的区别](vim/set-encoding-and-fileencoding-to-utf-8-in-vim.md)
-
