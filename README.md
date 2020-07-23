@@ -25,6 +25,7 @@
 
 - [.gitignore如何默认忽略所有，只例外部分文件](git/make-gitignore-ignore-everything-except-a-few-files.md)
 - [重置修改过的文件](git/hard-reset-file.md)
+- [如何查看Git的全局配置](git/how-do-i-show-my-global-git-configuration.md)
 
 ### Go
 
