@@ -66,6 +66,7 @@
 - [如何在Bash中判断字符串是否存在某个子串](unix/how-to-check-if-a-string-contains-a-substring-in-bash.md)
 - [Shell脚本中输入密码时如何隐藏输入内容](unix/hiding-user-input-on-terminal-in-linux-script.md)
 - [Shell脚本中如何找到端口对应的进程并杀掉](unix/How-to-write-a-shscript-to-kill--9-a-pid-which-is-found-via-port.md)
+- [如何获取文件全路径](unix/how-to-get-full-path-of-a-file.md)
 
 ### Vim
 
